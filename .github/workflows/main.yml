@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 9 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -29,7 +29,9 @@ jobs:
           plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
+          plugin_skyline: yes
+          plugin_skyline_year: 0            # Set to 0 to display current year
+          plugin_skyline_frames: 60         # Use 60 frames (half-loop)
+          plugin_skyline_quality: 0.5       # Set image quality
+          plugin_skyline_compatibility: yes
 
