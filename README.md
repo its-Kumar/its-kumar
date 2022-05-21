@@ -62,6 +62,8 @@
   ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
   <a href="https://www.credly.com/badges/9683e08e-37a8-4ec6-8036-2fb3f2707abc/public_url"><img src="https://images.credly.com/size/60x60/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" /></a>
+  <a href="https://www.credly.com/badges/7d9e01f7-efef-41b1-bcbc-ee5d79f9a229/public_url"><img src="https://images.credly.com/size/60x60/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" /></a>
+  <a href="https://www.credly.com/badges/3dc3d119-0ec1-4698-b6dc-20b5da2956cf/public_url"><img src="https://images.credly.com/size/60x60/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /></a>
 
 ---
 
