@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am <a href="http://its-kumar.herokuapp.com">Kumar Shanu</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I am <a href="http://its-kumar.herokuapp.com">Kumar Shanu</a></h1>
 <h2 align="center">A passionate python developer from India 🇮🇳 </h2>
 <h3 align="center">Pythonishta, Data Analyst, Data Scientist</h3>
 
@@ -64,6 +64,7 @@
   <a href="https://www.credly.com/badges/9683e08e-37a8-4ec6-8036-2fb3f2707abc/public_url"><img src="https://images.credly.com/size/60x60/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" /></a>
   <a href="https://www.credly.com/badges/7d9e01f7-efef-41b1-bcbc-ee5d79f9a229/public_url"><img src="https://images.credly.com/size/60x60/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" /></a>
   <a href="https://www.credly.com/badges/3dc3d119-0ec1-4698-b6dc-20b5da2956cf/public_url"><img src="https://images.credly.com/size/60x60/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" /></a>
+  <a href="https://www.credly.com/badges/b37d0e99-b4a8-4d1b-819b-d6bc23c56c60/public_url"><img src="https://images.credly.com/size/60x60/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" /></a>
 
 ---
 
